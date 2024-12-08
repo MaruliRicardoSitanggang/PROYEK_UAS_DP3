@@ -1,3 +1,4 @@
+program UAS_LAB;
 uses crt,math;
 
 label 
@@ -41,7 +42,7 @@ opsi : char;
 oto : rec_oto;
 umum : rec_umum;
 
-// batas variabel
+
 
 function hitung1(a : double ; b : longint ; c : real ) : double; //perhitungan daftar no 1
 var
