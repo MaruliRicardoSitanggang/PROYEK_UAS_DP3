@@ -1,6 +1,9 @@
 # PROYEK_UAS_DP3
-UAS DP 3 
 
+DESKRIPSI
+Kami membuat suatu program dalam Bahasa pascal dengan menyediakan fitur Pencatatan nasabah, menghitung besaran cicilan tiap bulan pada sistem Kredit Pemilikan Rumah (KPR), Kredit Otomotif, dan juga Pinjaman Umum dalam bahasa Pascal.
+
+NAMA PROJECT : Pencatatan nasabah, skema KPR, Kredit Otomotif dan pinjaman umum pada bank
 
 NAMA KELOMPOK : BANK
 ANGGOTA :
