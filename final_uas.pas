@@ -1,5 +1,5 @@
 program UAS_LAB;
-uses crt,math;
+uses crt,math; //memanggil unit math untuk melakukan operasi matematika tingkat lanjut
 
 label 
 1;
