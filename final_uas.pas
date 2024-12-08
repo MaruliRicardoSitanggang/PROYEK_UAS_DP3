@@ -5,7 +5,7 @@ label
 1;
 
 type 
-    rec_nasabah = record
+    rec_nasabah = record// ini untuk record dari nasabah
     nama : string;
     umur : integer;
     ttl  : string;
